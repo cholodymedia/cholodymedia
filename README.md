@@ -22,3 +22,4 @@ Currently working in [Sorigo](https://sorigo.pl/)
 
 #### On the roadmap:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61dbfb&color=171B21)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&color=171B21)
