@@ -1,7 +1,6 @@
 ## Hello there 👋
 
 I’m Marcin, a `Full Stack Web Developer`\
-Currently working in [Sorigo](https://sorigo.pl/)
 
 
 #### Primary tech stack:
