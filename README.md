@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I’m Marcin, a `Full Stack Web Developer`\
+I’m Marcin, a `Full Stack Web Developer`
 
 
 #### Primary tech stack:
